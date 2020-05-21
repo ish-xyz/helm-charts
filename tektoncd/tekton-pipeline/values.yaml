@@ -30,7 +30,7 @@ rbac:
 
 customResourceDefinitions:
   # customResourceDefinitions.create -- Create CRDs
-  create: true
+  create: false
 
 podSecurityPolicy:
   # podSecurityPolicy.enabled -- Enable pod security policy
